@@ -1,0 +1,14 @@
+Aggregated Label Errors
+Original RobustFilter: 0.05419999733567238
+Trimmed Mean: 0.043299999088048935
+RobustFilter+Trimmed Mean: 0.04209999740123749
+Geometric Median: 0.04050000011920929
+RobustFilter+Geometric Median: 0.03959999978542328
+
+
+Model Avg Errors
+Original RobustFilter: 0.10465499684214592
+Trimmed Mean: 0.07566999904811382
+RobustFilter+Trimmed Mean: 0.07073499858379365
+Geometric Median: 0.07183999791741372
+RobustFilter+Geometric Median: 0.06754499897360802
