@@ -16,3 +16,12 @@ jupyter notebook AGR_test.ipynb
 ```
 
 Set `NUM_LIE` or `NUM_LABEL_FLIP` in the data-initialization cell, then run all cells. See [`Cronus_AGR_Improvement_Paper.pdf`](Cronus_AGR_Improvement_Paper.pdf) for the full methodology and results.
+
+## References
+
+- [A Little Is Enough: Circumventing Defenses for Distributed Learning](https://arxiv.org/abs/1902.06156)
+- [Cronus: Robust and Heterogeneous Collaborative Learning with Black-Box Knowledge Transfer](https://arxiv.org/abs/1912.11279)
+- [On the Strategyproofness of the Geometric Median](https://proceedings.mlr.press/v206/el-mhamdi23a.html)
+- [Online Label Aggregation: A Variational Bayesian Approach](https://arxiv.org/abs/1807.07291)
+- [Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates](https://arxiv.org/abs/1803.01498)
+
